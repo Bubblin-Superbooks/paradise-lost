@@ -11,7 +11,7 @@ A nifty classic for book-lovers on the web. To read the book go <a href="https:/
 This book uses the [Superbook](https://bubblin.io/docs/format) format and is brought to you by [Bubblin](https://bubblin.io/about)&#x2014;The Publishing Company for The Web.
 
 
-<blockquote><p>Date of publication: <date id="date">July 30, 2019</date></p></blockquote>
+<blockquote><p>Date of publication: <date id="date">July 31, 2019</date></p></blockquote>
 
 ### TABLET FIRST &amp; OFFLINE FIRST
 
